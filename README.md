@@ -15,6 +15,9 @@ Download the Release directory and run the .exe file just as any other applicati
 3. `functions.cpp` - contains definitions of auxiliary functions responsible for displaying the end game screen and the exit box
 ## References
 Fonts: https://www.1001freefonts.com/
+
 Snake images: https://www.pngwing.com/
+
 Snake body segments: https://rembound.com/
+
 Background, game over and fireworks image: https://www.shutterstock.com/
