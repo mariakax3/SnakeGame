@@ -8,8 +8,10 @@ Download the Release directory and run the .exe file just as any other applicati
 ## Project tree
 1. `main.cpp` - logic of forming the window, draws whole menu, handles evens and reacts on chosen option
 2. `playGame.cpp` - contains all functions and variables necessary to running the game
-    *`struct Snake` - snake's body segment, array of structs `snake[]` contains coordinates of each segment
-    *`struct Fruit` - coordinates of currently shown fruit
+
+   *`struct Snake` - snake's body segment, array of structs `snake[]` contains coordinates of each segment
+   
+   *`struct Fruit` - coordinates of currently shown fruit
 3. `functions.cpp` - contains definitions of auxiliary functions responsible for displaying the end game screen and the exit box
 ## References
 Fonts: https://www.1001freefonts.com/
