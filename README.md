@@ -4,7 +4,7 @@ App was built on purpose of Low-level programming laboratories at the university
 ## Implementation
 The game was written in C language and SFML 2.5.1 library.
 ## Running the project
-Download the Release directory and run the .exe file just as any other application.
+Download the Release directory and run the .exe file just as any other application. Make sure that all necessary sources such as images, sounds and fonts are in the same directory with .exe file.
 ## Project tree
 1. `main.cpp` - logic of forming the window, draws whole menu, handles evens and reacts on chosen option
 2. `playGame.cpp` - contains all functions and variables necessary to running the game
